@@ -34,6 +34,7 @@ prev.addEventListener('click', ()=>{
 
 
 function update() {
+  
   circle.forEach((circle, index)=>{
     if(index < currentActive){
       circle.classList.add('active')
