@@ -50,13 +50,13 @@ body{
 
 
 
-.progress{
+#progress{
   background-color: #6a8da5;
   position: absolute;
   top: 50%;
   left: 0;
   height: 4px;
-  width: 50%;
+  width: 0;
   transform: translateY(-50%);
   z-index: -1;
   transition: .4s ease;
