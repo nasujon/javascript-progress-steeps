@@ -100,8 +100,8 @@ body{
   outline: 0;
 }
 
+
 .btn:disabled{
   background:var(--line-border-empty);
   cursor: not-allowed;
 }
-
